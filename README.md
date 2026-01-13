@@ -1,5 +1,7 @@
-# generateloadbash
-Quick and dirty solution to generate load to an endpoint via curl.
+# TOOLS
 
-## usage
-```generateload.sh http(s)://some_site.com/and_path <optional number threads to spawn> <optional duration in seconds>```
+## generateload.sh
+```Generates some cpu load```
+
+## write_random_files.sh
+```Fills up a partition```
