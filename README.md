@@ -5,3 +5,6 @@
 
 ## write_random_files.sh
 ```Fills up a partition```
+
+## write_fixed_rate_files.sh
+```Consumes a set amount of space in a set amount of time```
