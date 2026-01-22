@@ -8,3 +8,6 @@
 
 ## write_fixed_rate_files.sh
 ```Consumes a set amount of space in a set amount of time```
+
+## write_files.sh
+```Writes either fixed of fibonacci sequence sized files```
